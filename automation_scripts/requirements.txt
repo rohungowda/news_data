@@ -1,0 +1,7 @@
+bs4
+requests
+pandas
+openpyxl
+newspaper3k
+bertopic
+scikit-learn
